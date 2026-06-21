@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://quaidemillatpublicschoolameerabad.netlify.app/sitemap.xml
