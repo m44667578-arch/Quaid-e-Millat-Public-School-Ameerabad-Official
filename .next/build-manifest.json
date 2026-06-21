@@ -27,10 +27,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/submit-testimonial": [
+    "/results": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/submit-testimonial.js"
+      "static/chunks/pages/results.js"
     ],
     "/testimonials": [
       "static/chunks/webpack.js",
