@@ -1,0 +1,4 @@
+[
+  { "id": "event-1", "name": "Annual Sports Day", "date": "2026-08-12", "description": "A day for students to compete in athletics and school spirit." },
+  { "id": "event-2", "name": "Science Exhibition", "date": "2026-10-05", "description": "Students showcase science projects and experiments." }
+]

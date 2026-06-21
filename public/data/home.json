@@ -1,0 +1,73 @@
+{
+  "hero": {
+    "subtitle": "Welcome to",
+    "title": "Quaid-e-Millat Public School Ameerabad",
+    "description": "Nurturing Young Minds, Building Futures Since 1999, where excellence in education meets character building. We provide quality education from Playgroup to Grade 7 in a nurturing environment."
+  },
+  "about": {
+    "title": "About Our School",
+
+    "sections": [
+      {
+        "heading": "Our History",
+        "content": "Quaid-e-Millat Public School Ameerabad was established in 1999 with a profound vision to provide quality education and foster a generation of leaders."
+      },
+
+      {
+        "heading": "Our Founder",
+        "subheading": "Malik M. Abdullah Hadi",
+        "content": "The foundation of this esteemed institution was laid by one of the community's most honored teachers, Malik M. Abdullah Hadi."
+      },
+
+      {
+        "heading": "Our Mission",
+        "content": "We strive to provide quality education while developing strong moral values, leadership skills, and a sense of responsibility among students."
+      },
+
+      {
+        "heading": "Our Vision",
+        "content": "To be a leading educational institution that nurtures young minds and prepares them for the challenges of the future."
+      },
+        {
+            "heading": "Our Values",
+            "content": "We uphold values of integrity, respect, and excellence in all our endeavors."
+        },
+        {
+            "heading": "Our Achievements",
+            "content": "Over the years, our students have excelled in academics, sports, and extracurricular activities, bringing pride to our school."
+        },
+        {
+            "heading": "Our Community",
+            "content": "We foster a strong sense of community among students, parents, and staff, creating a supportive and inclusive environment."
+        },
+        {
+            "heading": "Our Motive",
+            "content": "Our motive is to develop the unique abilities and potential of each child by offering an enriched educational program. We strive for excellence through a hands-on approach. Rich traditions rooted in our innovative curriculum grow productive, caring, and intellectually curious citizens."
+        }
+
+    ]
+  },
+  "principal": {
+    "name": "Malik Gulzar Hussain — Principal QMPS",
+    "message": "We aim at inspiring our students to dream more, learn more, do more, and become more in their respective journeys of life."
+  },
+  "contact": {
+    "title": "Stay Connected with us",
+    "description": "Wish to enquire about admissions, syllabus, or anything else? You can walk in during office hours, give us a call or simply submit the form here.",
+    "address": "Near Cricket Stadium Ameerabad (Kowas), Chorbat Ghanche, Gilgi Baltistan , Pakistan.",
+    "phone": "92355 5351324",
+    "email": "qmpsameerabad@gmail.com"
+  },
+  "statistics": [
+    { "label": "Students", "value": "1,200+" },
+    { "label": "Teachers", "value": "65" },
+    { "label": "Awards", "value": "45" }
+  ],
+  "events": [
+    { "id": "event-1", "name": "Annual Sports Day", "date": "2026-08-12" },
+    { "id": "event-2", "name": "Science Exhibition", "date": "2026-10-05" }
+  ],
+  "notices": [
+    { "id": "notice-1", "title": "Admissions Open", "description": "Admissions are open for classes 1 through 10." }
+  ]
+}

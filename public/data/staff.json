@@ -1,0 +1,4 @@
+[
+  { "id": "staff-1", "name": "Mr. Ahmed", "role": "Principal", "photo": "/images/staff-1.jpg" },
+  { "id": "staff-2", "name": "Ms. Sara", "role": "Math Teacher", "photo": "/images/staff-2.jpg" }
+]

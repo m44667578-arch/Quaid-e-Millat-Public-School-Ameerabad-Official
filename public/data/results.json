@@ -1,0 +1,13 @@
+[
+  {
+    "rollNo": "101",
+    "name": "Ali",
+    "class": "7",
+    "dob": "2012-05-15",
+    "physics": 85,
+    "math": 90,
+    "english": 88,
+    "percentage": 87.7,
+    "grade": "A"
+  }
+]

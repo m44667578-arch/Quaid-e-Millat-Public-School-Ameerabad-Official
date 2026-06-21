@@ -1,0 +1,7 @@
+[
+  { "id": "gallery-1", "title": "Annual Day Celebration", "image": "/images/gallery-1.jpg", "category": "Culture" },
+  { "id": "gallery-2", "title": "Science Fair", "image": "/images/gallery-2.jpg", "category": "Academics" },
+  { "id": "gallery-3", "title": "Sports Day Highlights", "video": "/videos/sports-day.mp4", "image": "/images/gallery-3.jpg", "category": "Sports" },
+  { "id": "gallery-4", "title": "Art Competition", "image": "/images/gallery-4.jpg", "category": "Culture" },
+  { "id": "gallery-5", "title": "Mathematics Workshop", "image": "/images/gallery-5.jpg", "category": "Academics" }
+]
